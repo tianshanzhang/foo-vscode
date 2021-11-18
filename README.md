@@ -1,2 +1,3 @@
 #about
-installation
+##quick start
+##Installation
